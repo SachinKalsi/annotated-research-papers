@@ -5,7 +5,7 @@ This paper was suggested in [Andrej Karpathy's](https://karpathy.ai/) one of the
 ## Annotation standards
 
 
-🟡 - The important teaching or studying with respect to the paper are highlighted in yellow 🟡 color
+🟡 - The important research or study with respect to the core concept explained in the paper are highlighted in yellow 🟡 color.
 
 🟢 - The important takeways or learnings are highlighted in green 🟢 color
 
@@ -18,6 +18,3 @@ This paper was suggested in [Andrej Karpathy's](https://karpathy.ai/) one of the
    1. Apply Dropout **AFTER ALL BN LAYERS**
    2. Modify the formula of Dropout and made it less sensitive to variance.
 4. The “Uout” (i.e., modified formula of Dropout) would be less affected by the insufficient training data than applying the last-layer Dropout
-
-
-🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
