@@ -2,6 +2,15 @@
 
 A study by Google (2014) - Ilya Sutskever and team. 
 
+## Annotation standards
+🟡 - The important research or study with respect to the core concept explained in the paper are highlighted in yellow 🟡 color.
+
+🟢 - The important takeways or learnings are highlighted in green 🟢 color
+
+🔴 - Important takeaways
+
+🔴 + Underline - mini conlusions or crisp summary found in the paper are underlined
+
 ## Major learnings from paper
 
 1. The **_ATTENTION MECHANISM_** was also studied in 2013-2014 allows neural networks to focus on different parts of their input
