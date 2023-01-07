@@ -2,6 +2,8 @@
 
 A study by Google (2014) - Ilya Sutskever and team. 
 
+Original Paper link: https://arxiv.org/abs/1409.3215
+
 ## Annotation standards
 🟡 - The important research or study with respect to the core concept explained in the paper are highlighted in yellow 🟡 color.
 
