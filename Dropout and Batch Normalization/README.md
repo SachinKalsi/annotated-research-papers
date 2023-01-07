@@ -2,6 +2,8 @@
 
 This paper was suggested in [Andrej Karpathy's](https://karpathy.ai/) one of the best blog [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 
+Original paper link: https://arxiv.org/abs/1801.05134
+
 ## Annotation standards
 
 
