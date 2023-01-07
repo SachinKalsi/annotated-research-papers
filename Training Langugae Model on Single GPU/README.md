@@ -2,6 +2,8 @@
 
 *University of Maryland* investigated the downstream performance achievable with a transformer-based language model trained completely from scratch with MLM for a single day on a single consumer GPU. The paper addressed the question "How far can we get with a single GPU in just one day?"
 
+Original Paper link: https://arxiv.org/abs/2212.14034
+
 ## Annotation standards
 🟡 - The important research or study with respect to the core concept explained in the paper are highlighted in yellow 🟡 color.
 
