@@ -2,6 +2,7 @@
 
 Q8BERT is all about performing `quantization-aware training` during the fine-tuning phase of BERT in order to compress BERT by 4× with minimal accuracy loss.
 
+Original Paper link: https://arxiv.org/abs/1910.06188
 
 ## Annotation standards
 
