@@ -2,6 +2,8 @@
 
 TextRank is a graph based algorithm to fetch the important keyword phrases or sentences from the text corpus
 
+Original Paper link: https://aclanthology.org/W04-3252/
+
 ## Summary of the paper (How TextRank works?)
 1. It’s all about applying graph-based algorithm to natural language & extracting keyword phrases or sentences.
 2. Each vertex in the graph can either be a word or a sentence and the graph-based ranking model assigns the score to each vertex
