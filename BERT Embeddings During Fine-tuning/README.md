@@ -2,6 +2,8 @@
 
 A study by Google on how model (BERT) changes when fine-tuned
 
+Original Paper link: https://arxiv.org/abs/2004.14448
+
 ## Annotation standards
 🟡 - The important research or study with respect to the core concept explained in the paper are highlighted in yellow 🟡 color.
 
