@@ -9,7 +9,7 @@ Meta has released & open-sourced LLaMA, a collection of foundation large languag
 1. The paper has placed greater emphasis on the compute budget required for inference rather than the compute budget required for training, which is not typically observed.
 2. LLaMA has used only publicly available data for the training
 3. Significant importance has been given to  data cleaning process.
-   1. Used [language-detection](https://fasttext.cc/docs/en/language-identification.html) model to remove non-english text. The library used is very good, accurate & faster in detecting non-english text
+   1. Used [language-detection, a fastText linear classifier](https://fasttext.cc/docs/en/language-identification.html) model to remove non-english text. The library used is very good, accurate & faster in detecting non-english text
    2. Data deduplication for different datasets and removal of html tags, comments etc.
    3. Used 7 different datasets for training & overall the training data size is `~1.45TB`
 4. Used BPE (bytepair encoding) tokenizer & entire training dataset containes `1.4T` tokens!
