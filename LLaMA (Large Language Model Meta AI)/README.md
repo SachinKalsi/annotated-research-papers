@@ -16,8 +16,8 @@ Meta has released & open-sourced LLaMA, a collection of foundation large languag
 5. Architecture
    1. Bases on transformer architecture (Vasvawni) & leverages various improvements used in different models
    2. Pre-normalization (`GPT3`): normalize the input of each transformer sub-layer using  RMSNorm normalizer, instead of normalizing the output
-   3. SwiGLU activation function `PaLM`: Used __*`SwiGLU`*__ activation function instead of `ReLU`
-   4. Rotary Embeddings `GPTNeo`: Rotary positional embeddings (RoPE) were used instead of absolute positional embeddings
+   3. SwiGLU activation function (`PaLM`): Used __*`SwiGLU`*__ activation function instead of `ReLU`
+   4. Rotary Embeddings (`GPTNeo`): Rotary positional embeddings (RoPE) were used instead of absolute positional embeddings
    5. Optimizer: `AdamW` with cosine learning rate scheduler.
    6. Memory optimisation techniques:
        1.  not `storing` the attention weights and not `computing` the key/query scores that are masked due to the causal nature of the language modeling task.
