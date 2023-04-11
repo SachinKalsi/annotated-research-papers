@@ -25,3 +25,4 @@ Meta has released & open-sourced LLaMA, a collection of foundation large languag
 6. Used 2048 A100 GPU (80GB) for training 1.4T tokens for ~21 days
 7. LLaMA authors also found that finetuning these LMs on instructions lead to promising results & the investigation is in progress
 
+Detailed explanation: https://youtu.be/HhBbuV5LBqo
