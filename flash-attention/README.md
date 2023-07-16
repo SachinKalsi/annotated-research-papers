@@ -22,3 +22,6 @@ Original Paper link: https://arxiv.org/abs/2205.14135
 11. FlashAttention achieves 2.8x speedup, while performing on par with standard attention.
 12. FlashAttention is up to 20x more memory efficient than exact attention baselines, and is more memory-efficient than the approximate attention baselines
 
+YouTube Video:
+1. Part 1: https://youtu.be/wwXHfSJQOag (GPU Explained)
+2. Part 2: 
