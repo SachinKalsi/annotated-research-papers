@@ -24,4 +24,5 @@ Original Paper link: https://arxiv.org/abs/2205.14135
 
 YouTube Video:
 1. Part 1: https://youtu.be/wwXHfSJQOag (GPU Explained)
-2. Part 2: 
+2. Part 2: https://youtu.be/G1eisMH1Nls (FlashAttention Explained)
+3. Part 3: (Algorithm)
